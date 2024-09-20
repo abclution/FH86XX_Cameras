@@ -13,3 +13,5 @@ On the plus side, it does "AI" motion detection, and has tow motor axis control,
 
 Let the hacking commence. 
 
+Message me here with a pull request or an issue if you want to contribute. 
+
