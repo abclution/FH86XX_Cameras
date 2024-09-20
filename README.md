@@ -11,6 +11,10 @@ It also claims IP66 waterproof rating, but this would only apply if you put it u
 The model I have has firware FH8616_IPC_V1.0.0_20230815 on it, but I suspect there are dozens of variants. 
 On the plus side, it does "AI" motion detection, and has tow motor axis control, and a pair of probably fake wifi antennae. 
 
+Check the wiki for more. 
+
+https://github.com/pingumacpenguin/FH86XX_Cameras/wiki
+
 Let the hacking commence. 
 
 Message me here with a pull request or an issue if you want to contribute. 
