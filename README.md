@@ -23,3 +23,5 @@ Let the hacking commence.
 
 Message me here with a pull request or an issue if you want to contribute. 
 
+Don't expect an instant response as the day job takes up most of my time. 
+
