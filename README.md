@@ -2,6 +2,7 @@
 All I know about these low cost cameras. 
 
 I picked up a couple of low cost  FH8616  based "Inteligent Cameras" 
+
 You can find these for not much on AliExpress, with a search string of something like..
 
 8MP Wifi IP Outdoor Wireless Security Surveillance PTZ Camera 4X Zoom Cameras AI Human Tracking Two-way Audio HD Night Color Cam
