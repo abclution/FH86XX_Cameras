@@ -19,7 +19,11 @@ Check the wiki for more.
 
 https://github.com/pingumacpenguin/FH86XX_Cameras/wiki
 
-Let the hacking commence. 
+Here on the wiki is a root exploit that should get you telnet root access. 
+
+https://github.com/pingumacpenguin/FH86XX_Cameras/wiki/root-exploit
+
+Take care, as you can now break stuff. 
 
 Message me here with a pull request or an issue if you want to contribute. 
 
