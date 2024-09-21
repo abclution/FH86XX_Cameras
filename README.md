@@ -13,7 +13,8 @@ It also claims IP66 waterproof rating, but this would only apply if you put it u
 
 The model I have has firware FH8616_IPC_V1.0.0_20230815 on it, but I suspect there are dozens of variants. 
 
-On the plus side, it does "AI" motion detection, and has tow motor axis control, and a pair of probably fake wifi antennae. 
+On the plus side, it does "AI" motion detection, and has two motor axis control, and a pair of probably fake wifi antennae. 
+.. oh and some very bright LEDs, and some IR LEDs too.. not bad for a few bucks. 
 
 Check the wiki for more. 
 
