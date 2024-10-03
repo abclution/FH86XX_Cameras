@@ -32,7 +32,7 @@ Check the wiki for more.
 
 https://github.com/pingumacpenguin/FH86XX_Cameras/wiki
 
-Here on the wiki is a root exploit that should get you telnet root access. 
+Here on the wiki is a root exploit that should get you telnet root access. The Wiki explains how to not only get root access, but also connect to the rtsp streams and enable and connect to the ONVIF service for stream info and PTZ control. 
 
 There are a few other related scripts in the repo. Feel free to download and try them. Some, all or none of them may work with your camera. 
 
