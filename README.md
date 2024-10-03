@@ -17,7 +17,9 @@ You can find these for not much on AliExpress, with a search string of something
 
 "8MP Wifi IP Outdoor Wireless Security Surveillance PTZ Camera 4X Zoom Cameras AI Human Tracking Two-way Audio HD Night Color Cam"
 
-This description is a bit of a stretch since the camera sensor in the one I am looking at currently is a 2MP sensor, but what the heck do you expect for the price. 
+At the time of writing, expect to pay less than ten US dollars for them, with free shipping from AliExpress. At that price, I though them worth the gamble. 
+
+This listing description is a bit of a stretch since the camera sensor in the one I am looking at currently is a 2MP sensor, but what the heck do you expect for the price. 
 
 The code on the camera does support a bunch of sensors, and there may indeed be an 8MP version of the camera, but be aware, they are cheap for a reason. 
 
