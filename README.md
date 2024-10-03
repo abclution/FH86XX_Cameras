@@ -7,7 +7,7 @@ It may work with other similar cameras, but be aware there are a lot of very sim
 
 In fact I have a couple of other nearly identical looking devices that are possibly A9 variants, and they are not remotely similar in terms of the underlying hardware.
 
-The FH86XX cameras run Linus/Busybox, but I'm pretty certain the A9 ones don't. I haven't really probed the non FH86XX ones, I'll try to hack them next, so I may be proven wrong. 
+The FH86XX cameras run Linux/Busybox, but I'm pretty certain the A9 ones don't. I haven't really probed the non FH86XX ones, I'll try to hack them next, so I may be proven wrong. 
 
 First,  a little background information.
 
