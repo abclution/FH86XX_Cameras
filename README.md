@@ -1,4 +1,4 @@
-# FH86XX_Cameras
+wiki/From-Zero-to-Hero-in-5-minswiki/From-Zero-to-Hero-in-5-mins# FH86XX_Cameras
 All I know about these low cost cameras. 
 
 This repo applies to those specific cameras. 
@@ -42,7 +42,7 @@ There are a few other related scripts in the repo. Feel free to download and try
 
 https://github.com/pingumacpenguin/FH86XX_Cameras/wiki/From-Zero-to-Hero-in-5-mins
 
-Take care, as you can now break stuff. 
+Take care, as you can now break stuff...
 
 Message me here with a pull request or an issue if you want to contribute. 
 
