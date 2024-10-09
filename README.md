@@ -40,7 +40,7 @@ Here on the wiki is a root exploit that should get you telnet root access. The W
 
 There are a few other related scripts in the repo. Feel free to download and try them. Some, all or none of them may work with your camera. 
 
-https://github.com/pingumacpenguin/FH86XX_Cameras/wiki/root-exploit
+https://github.com/pingumacpenguin/FH86XX_Cameras/wiki/From-Zero-to-Hero-in-5-mins
 
 Take care, as you can now break stuff. 
 
