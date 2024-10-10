@@ -1,7 +1,10 @@
-wiki/From-Zero-to-Hero-in-5-minswiki/From-Zero-to-Hero-in-5-mins# FH86XX_Cameras
-All I know about these low cost cameras. 
+Probably best to start in the wiki
 
-This repo applies to those specific cameras. 
+https://github.com/pingumacpenguin/FH86XX_Cameras/wiki/From-Zero-to-Hero-in-5-mins
+
+A bit more about what I know about these low cost cameras. 
+
+This repo applies to those specific Fullhan FH8616 cameras only. 
 
 It may work with other similar cameras, but be aware there are a lot of very similar looking cameras, and not all of them are FH86XX based.
 
