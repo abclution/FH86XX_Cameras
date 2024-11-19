@@ -1,27 +1,43 @@
-## STOCK FIRMWARE ROOT PASSWORD (Untested)
+### Tenda CP3 V2.0 / CP3 V2.1 model
+
+It appears that the software and most of the hardware (misc sensor and misc wifi) is based on the Tenda CP3 devices.
+
+Tenda CP3 FW: 2111220956 - <https://www.tenda.com.cn/download/detail-3343.html>
+
+ 20220906024_2025_cn
+
+<https://www.tenda.com.cn/download/detail-3472.html>
+
+If any other firmware is found please grab it!
+
+
+
+### STOCK FIRMWARE ROOT PASSWORD (Untested)
 
 root123
-
 
 SOURCE: <https://4pda.to/forum/index.php?showtopic=928641&view=findpost&p=131579800>
 
 
-## BLOCK INTERNET ACCESS BUT ALLOW LAN (MIKROTIK)
 
-### `add action=drop chain=forward disabled=yes out-interface-list=WAN  src-mac-address=CAMERA-MAC-ADDRESS`
+### BLOCK INTERNET ACCESS BUT ALLOW LAN (MIKROTIK)
 
-NOTE: The v360 Pro app still seems to work as long as the cameras were added to the app without internet being blocked
+`add action=drop chain=forward disabled=yes out-interface-list=WAN  src-mac-address=CAMERA-MAC-ADDRESS`
+
+NOTE: The v360 Pro app still seems to work on your lan as long as the cameras were added to the app without internet being blocked, it seems to keep the local ips for viewing internally.
 
 
-## FTP ENABLE
+### FTP ENABLE
 
 todo
 
-## ON-CAMERA COMPATIBLE BINS⁄SCRIPTS
+
+
+### ON-CAMERA COMPATIBLE BINS⁄SCRIPTS
 
 * flashdump.sh / flashdump_dd.sh
 
-A modified copy of the idump.sh script that backs up the firmware into a Flash.img as well as each mtd area individually. flashdump_dd.sh does the same but using dd. Files created by each are identical but written to slightly different locations, defaulting to writing on the sd, use --local for writing to internal storage. 
+A modified copy of the idump.sh script that backs up the firmware into a Flash.img as well as each mtd area individually. flashdump_dd.sh does the same but using dd. Files created by each are identical but written to slightly different locations, defaulting to writing on the sd, use --local for writing to internal storage.
 
 
 * busybox / SD busybox.zip
@@ -46,6 +62,8 @@ So far, since I have no ssh, I use the rsyncd daemon on the destination to send 
 * myinfo-wrapper.sh
 
 SOURCE: Wrote as a wrapper around the myinfo.sh script to create an all in one report as seen below in the “CAMERA DEVICE INFO REPORT”
+
+
 
 ## CAMERA DEVICE INFO REPORT
 
